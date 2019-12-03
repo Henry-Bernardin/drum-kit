@@ -7,4 +7,4 @@ window.addEventListener('keydown', function(e) {
     
 }); 
 
-  
+  const keys = document.querySelectorAll('.keys'); // select all the keys 
